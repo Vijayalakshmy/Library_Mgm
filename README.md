@@ -1,1 +1,1 @@
-This is a Library management project using Pyhton with Django Framework.
+This is a Library management project using Python with Django Framework.
